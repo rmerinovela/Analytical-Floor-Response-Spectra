@@ -5,7 +5,7 @@ Data and application for the journal publication:
 
 An application with a graphbical user interface is provided, which performs the analytical methdology proposed in the publication. The application is provided in the following link: 
 
-https://www.dropbox.com/scl/fo/aylva590fd1ta4a5itfcu/AEUnNBoqcUsa3eOss9U5Xaw?rlkey=up6pt5uuashfuic2fqxf7wh9a&st=b7ue4x4c&dl=0.
+https://www.dropbox.com/scl/fo/aylva590fd1ta4a5itfcu/AEUnNBoqcUsa3eOss9U5Xaw?rlkey=up6pt5uuashfuic2fqxf7wh9a&st=p06k44y0&dl=0
 
 For the application to work, the executable file must not be moved from the directory where the _internal folder is. Example input ground-motion spectra input files are also provided.  
 
